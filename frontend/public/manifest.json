@@ -1,0 +1,31 @@
+{
+  "short_name": "Islamic Knowledge",
+  "name": "Islamic Knowledge Platform",
+  "description": "Access authentic Islamic knowledge anytime, anywhere",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00796b",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["education", "reference"],
+  "prefer_related_applications": false
+}
